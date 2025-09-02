@@ -3,7 +3,7 @@
 A fast & simple Python tool to discover subdomains of a target domain.  
 This is the **free version** – good for learning and small recon tasks.
 
-👉 For the **Pro version** (with threading, takeover detection & save results to file), check it here: [Buy Pro](https://your-gumroad-link)  
+👉 For the **Pro version** (with threading, takeover detection & save results to file), check it here: [Buy Pro](https://dilkhush88.gumroad.com/l/lqwlwk)  
 
 ---
 
